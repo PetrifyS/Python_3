@@ -1,4 +1,4 @@
-Gold!
+# Gold!
 A game in which the object is to dodge the asteroids and reach the gold in the middle. Those gray boxes are portals. 
 
 
